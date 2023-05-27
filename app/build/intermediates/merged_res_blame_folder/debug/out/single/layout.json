@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\vocab_image_row.xml",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\vocab_image_row.xml"
+    },
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_astroid_attack.xml",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\fragment_astroid_attack.xml"
+    },
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\pinview_row.xml",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\pinview_row.xml"
+    },
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\image_maching_row.xml",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\image_maching_row.xml"
+    },
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_starter.xml",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\fragment_starter.xml"
+    },
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_sighn_up.xml",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\fragment_sighn_up.xml"
+    },
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_forgot_pass.xml",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\fragment_forgot_pass.xml"
+    },
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\custom_player_controls.xml",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\custom_player_controls.xml"
+    },
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_games.xml",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\fragment_games.xml"
+    },
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_story.xml",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\fragment_story.xml"
+    },
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\pager_courses_row.xml",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\pager_courses_row.xml"
+    },
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_catching_waves.xml",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\fragment_catching_waves.xml"
+    },
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_vocab.xml",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\fragment_vocab.xml"
+    },
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_record.xml",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\fragment_record.xml"
+    },
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_row.xml",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\content_row.xml"
+    },
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_start.xml",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_login.xml",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_courses.xml",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\fragment_courses.xml"
+    },
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_content.xml",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\fragment_content.xml"
+    }
+]

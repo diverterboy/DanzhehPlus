@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_main"
+    app:startDestination="@id/coursesFragment">
+
+    <fragment
+        android:id="@+id/contentFragment"
+        android:name="com.utotech.danzhehplus.fragments.ContentFragment"
+        android:label="Units Content"
+        tools:layout="@layout/fragment_content" >
+        <action
+            android:id="@+id/action_contentFragment_to_vocabFragment"
+            app:destination="@id/vocabFragment"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim" />
+        <action
+            android:id="@+id/action_contentFragment_to_gamesFragment"
+            app:destination="@id/gamesFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/vocabFragment"
+        android:name="com.utotech.danzhehplus.fragments.VocabFragment"
+        android:label="Vocab Learning"
+        tools:layout="@layout/fragment_vocab" >
+        <argument
+            android:name="unitNum"
+            app:argType="integer" />
+    </fragment>
+    <fragment
+        android:id="@+id/gamesFragment"
+        android:name="com.utotech.danzhehplus.fragments.GamesFragment"
+        android:label="fragment_games"
+        tools:layout="@layout/fragment_games" >
+        <action
+            android:id="@+id/action_gamesFragment_to_vocabFragment"
+            app:destination="@id/vocabFragment" />
+        <argument
+            android:name="unitNum"
+            app:argType="integer" />
+        <action
+            android:id="@+id/action_gamesFragment_to_catchingWavesFragment"
+            app:destination="@id/catchingWavesFragment" />
+        <action
+            android:id="@+id/action_gamesFragment_to_astroidAttackFragment"
+            app:destination="@id/astroidAttackFragment"
+            app:enterAnim="@anim/nav_default_pop_enter_anim" />
+        <action
+            android:id="@+id/action_gamesFragment_to_storyFragment"
+            app:destination="@id/storyFragment"
+            app:launchSingleTop="true" />
+        <action
+            android:id="@+id/action_gamesFragment_to_recordFragment3"
+            app:destination="@id/recordFragment3" />
+    </fragment>
+    <fragment
+        android:id="@+id/catchingWavesFragment"
+        android:name="com.utotech.danzhehplus.fragments.CatchingWavesFragment"
+        android:label="fragment_catching_waves"
+        tools:layout="@layout/fragment_catching_waves" />
+    <fragment
+        android:id="@+id/astroidAttackFragment"
+        android:name="com.utotech.danzhehplus.fragments.AstroidAttackFragment"
+        android:label="fragment_astroid_attack"
+        tools:layout="@layout/fragment_astroid_attack" />
+    <fragment
+        android:id="@+id/storyFragment"
+        android:name="com.utotech.danzhehplus.fragments.StoryFragment"
+        android:label="fragment_story"
+        tools:layout="@layout/fragment_story" >
+        <argument
+            android:name="whichFragment"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/recordFragment3"
+        android:name="com.utotech.danzhehplus.fragments.RecordFragment"
+        android:label="RecordFragment" />
+    <fragment
+        android:id="@+id/coursesFragment"
+        android:name="com.utotech.danzhehplus.fragments.CoursesFragment"
+        android:label="fragment_courses"
+        tools:layout="@layout/fragment_courses" >
+        <action
+            android:id="@+id/action_coursesFragment_to_contentFragment"
+            app:destination="@id/contentFragment" />
+    </fragment>
+</navigation>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="err_red">#F04437</color>
+    <color name="gray">#A39696</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="theBlue">#255AE6</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_background">#F2F2F2</color>
+    <dimen name="common_padding">8</dimen>
+    <string name="EmailAddress">Email address</string>
+    <string name="LastName">Last Name</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="app_name">Danzheh Plus</string>
+    <string name="assteroid_attack">Assteroid Attack</string>
+    <string name="catching_waves">Catching Waves</string>
+    <string name="courses">Courses</string>
+    <string name="emailRule">enter a True email this is sinc with your account.</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="errPhoneNumber">enter right phone number*</string>
+    <string name="excersize">excersize</string>
+    <string name="first_name">First Name</string>
+    <string name="forgotpass">Forgot Password</string>
+    <string name="forgottenPass">Forgot Password!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_in">Log in</string>
+    <string name="nationCode">National Code</string>
+    <string name="nationErr">enter right national code: min 10 number*</string>
+    <string name="passConfirmErr">Reenter your password</string>
+    <string name="passNotValid">password is not vallid</string>
+    <string name="passRule">8-character min:Use Symbol and character for Password</string>
+    <string name="password">********</string>
+    <string name="phoneNumber">Phone number</string>
+    <string name="profile">profile</string>
+    <string name="repeat">repeat</string>
+    <string name="settinf">setting</string>
+    <string name="sign_in_to_continue">Sign in to continue!</string>
+    <string name="sign_up_to_continue">Sign Up to continue</string>
+    <string name="story">Story</string>
+    <string name="username">username</string>
+    <string name="usernotvalid">user name is not vallid</string>
+    <string name="vocab_learning">Vocab Learning</string>
+    <string name="welcome_back">Welcome Back</string>
+    <style name="CustomPlayerControlButton" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:layout_width">48dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:tint">@android:color/white</item>
+    </style>
+    <style name="Theme.DanzhehPlus" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
