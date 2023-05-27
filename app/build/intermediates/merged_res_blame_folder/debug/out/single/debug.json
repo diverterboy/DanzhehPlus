@@ -28,20 +28,20 @@
         "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_story.xml.flat",
-        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\fragment_story.xml"
-    },
-    {
         "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\merged_res\\debug\\drawable_ico_play.png.flat",
         "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\drawable\\ico_play.png"
     },
     {
-        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_games.xml.flat",
-        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\fragment_games.xml"
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_story.xml.flat",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\fragment_story.xml"
     },
     {
         "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_rew.xml.flat",
         "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\drawable\\ic_rew.xml"
+    },
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_games.xml.flat",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\fragment_games.xml"
     },
     {
         "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_fullscreen.xml.flat",

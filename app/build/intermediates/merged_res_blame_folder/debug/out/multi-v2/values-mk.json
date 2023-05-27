@@ -110,23 +110,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Diverter\\.gradle\\caches\\transforms-3\\afaca88a79e85696fa9ea014193223f8\\transformed\\exoplayer-core-2.18.5\\res\\values-mk\\values-mk.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,125,186,250,318,395,468,557,642",
-                        "endColumns": "69,60,63,67,76,72,88,84,77",
-                        "endOffsets": "120,181,245,313,390,463,552,637,715"
-                    },
-                    "to": {
-                        "startLines": "97,98,99,100,101,102,103,104,105",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "8370,8440,8501,8565,8633,8710,8783,8872,8957",
-                        "endColumns": "69,60,63,67,76,72,88,84,77",
-                        "endOffsets": "8435,8496,8560,8628,8705,8778,8867,8952,9030"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Diverter\\.gradle\\caches\\transforms-3\\c603081ad993611e925a52aee31d9244\\transformed\\play-services-base-18.0.1\\res\\values-mk\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -141,6 +124,23 @@
                         "startOffsets": "4027,4134,4295,4428,4538,4683,4816,4936,5183,5340,5447,5613,5746,5899,6058,6127,6191",
                         "endColumns": "106,160,132,109,144,132,119,109,156,106,165,132,152,158,68,63,78",
                         "endOffsets": "4129,4290,4423,4533,4678,4811,4931,5041,5335,5442,5608,5741,5894,6053,6122,6186,6265"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Diverter\\.gradle\\caches\\transforms-3\\d2865fe06350c85fd1ac0c4d94e79f0d\\transformed\\media3-exoplayer-1.0.0-alpha03\\res\\values-mk\\values-mk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,186,250,318,395,468,557,642",
+                        "endColumns": "69,60,63,67,76,72,88,84,77",
+                        "endOffsets": "120,181,245,313,390,463,552,637,715"
+                    },
+                    "to": {
+                        "startLines": "97,98,99,100,101,102,103,104,105",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "8370,8440,8501,8565,8633,8710,8783,8872,8957",
+                        "endColumns": "69,60,63,67,76,72,88,84,77",
+                        "endOffsets": "8435,8496,8560,8628,8705,8778,8867,8952,9030"
                     }
                 }
             ]

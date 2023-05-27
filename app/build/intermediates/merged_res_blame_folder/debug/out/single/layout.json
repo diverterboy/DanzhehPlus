@@ -1,11 +1,11 @@
 [
     {
-        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\vocab_image_row.xml",
-        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\vocab_image_row.xml"
-    },
-    {
         "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_astroid_attack.xml",
         "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\fragment_astroid_attack.xml"
+    },
+    {
+        "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\vocab_image_row.xml",
+        "source": "E:\\DanzhehPlus\\app\\src\\main\\res\\layout\\vocab_image_row.xml"
     },
     {
         "merged": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\pinview_row.xml",

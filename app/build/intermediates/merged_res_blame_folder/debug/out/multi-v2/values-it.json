@@ -4,6 +4,23 @@
             "outputFile": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-it\\values-it.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\Diverter\\.gradle\\caches\\transforms-3\\d2865fe06350c85fd1ac0c4d94e79f0d\\transformed\\media3-exoplayer-1.0.0-alpha03\\res\\values-it\\values-it.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,126,187,259,329,405,471,558,643",
+                        "endColumns": "70,60,71,69,75,65,86,84,73",
+                        "endOffsets": "121,182,254,324,400,466,553,638,712"
+                    },
+                    "to": {
+                        "startLines": "97,98,99,100,101,102,103,104,105",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "8342,8413,8474,8546,8616,8692,8758,8845,8930",
+                        "endColumns": "70,60,71,69,75,65,86,84,73",
+                        "endOffsets": "8408,8469,8541,8611,8687,8753,8840,8925,8999"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Diverter\\.gradle\\caches\\transforms-3\\8bf633f822f2989c55f0b3dc9b78ff22\\transformed\\core-1.8.0\\res\\values-it\\values-it.xml",
                     "from": {
                         "startLines": "2",
@@ -105,23 +122,6 @@
                         "startOffsets": "3974,4079,4230,4355,4463,4621,4749,4869,5109,5266,5373,5527,5654,5810,5991,6058,6119",
                         "endColumns": "104,150,124,107,157,127,119,103,156,106,153,126,155,180,66,60,76",
                         "endOffsets": "4074,4225,4350,4458,4616,4744,4864,4968,5261,5368,5522,5649,5805,5986,6053,6114,6191"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Diverter\\.gradle\\caches\\transforms-3\\afaca88a79e85696fa9ea014193223f8\\transformed\\exoplayer-core-2.18.5\\res\\values-it\\values-it.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,126,187,259,329,405,471,558,643",
-                        "endColumns": "70,60,71,69,75,65,86,84,73",
-                        "endOffsets": "121,182,254,324,400,466,553,638,712"
-                    },
-                    "to": {
-                        "startLines": "97,98,99,100,101,102,103,104,105",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "8342,8413,8474,8546,8616,8692,8758,8845,8930",
-                        "endColumns": "70,60,71,69,75,65,86,84,73",
-                        "endOffsets": "8408,8469,8541,8611,8687,8753,8840,8925,8999"
                     }
                 },
                 {

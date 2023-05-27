@@ -1,28 +1,32 @@
 package com.utotech.danzhehplus.fragments
 
+import android.app.Fragment
 import android.os.Bundle
 import android.view.Gravity
 import android.view.LayoutInflater
 import android.view.View
+import android.view.View.GONE
 import android.view.View.OnAttachStateChangeListener
 import android.view.ViewGroup
 import android.view.WindowManager
 import android.widget.FrameLayout
-import androidx.fragment.app.Fragment
+/* todo import androidx.fragment.app.Fragment
+import androidx.media3.exoplayer.ExoPlayer*/
 import androidx.navigation.fragment.navArgs
 import com.google.android.exoplayer2.DefaultRenderersFactory
 import com.google.android.exoplayer2.ExoPlayer
 import com.google.android.exoplayer2.MediaItem
+import com.google.android.exoplayer2.Player
 import com.google.android.exoplayer2.SimpleExoPlayer
 import com.google.android.exoplayer2.ui.PlayerControlView
 import com.utotech.danzhehplus.R
 import com.utotech.danzhehplus.databinding.FragmentStoryBinding
 
-open class StoryFragment : Fragment() {
+open class StoryFragment : androidx.fragment.app.Fragment() {
     lateinit var binding: FragmentStoryBinding
     private val args: StoryFragmentArgs by navArgs()
     lateinit var mediaItem: MediaItem
-    private lateinit var player: ExoPlayer
+    private lateinit var player: com.google.android.exoplayer2.ExoPlayer
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?,
@@ -43,7 +47,7 @@ open class StoryFragment : Fragment() {
         }
 
 
-        player = ExoPlayer.Builder(requireContext()).build()
+        player = com.google.android.exoplayer2.ExoPlayer.Builder(requireContext()).build()
 
         binding.idExoPlayerVIew.player = player
         player.setMediaItem(mediaItem);
@@ -52,6 +56,17 @@ open class StoryFragment : Fragment() {
 
         player.play()
 
+        ExoPlayer.STATE_ENDED
+
+        player.addListener(object : Player.Listener {
+            override fun onPlaybackStateChanged(state: Int) {
+                if (state == Player.STATE_ENDED) {
+
+                    binding.idExoPlayerVIew.visibility = GONE
+
+                }
+            }
+        })
 
         return binding.root
     }

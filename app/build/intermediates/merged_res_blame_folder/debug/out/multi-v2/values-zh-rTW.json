@@ -23,6 +23,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\Diverter\\.gradle\\caches\\transforms-3\\d2865fe06350c85fd1ac0c4d94e79f0d\\transformed\\media3-exoplayer-1.0.0-alpha03\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,111,167,224,277,347,401,477,555",
+                        "endColumns": "55,55,56,52,69,53,75,77,58",
+                        "endOffsets": "106,162,219,272,342,396,472,550,609"
+                    },
+                    "to": {
+                        "startLines": "97,98,99,100,101,102,103,104,105",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "7272,7328,7384,7441,7494,7564,7618,7694,7772",
+                        "endColumns": "55,55,56,52,69,53,75,77,58",
+                        "endOffsets": "7323,7379,7436,7489,7559,7613,7689,7767,7826"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Diverter\\.gradle\\caches\\transforms-3\\f254f5ba431df72043735c072e7d081f\\transformed\\play-services-basement-18.0.0\\res\\values-zh-rTW\\values.xml",
                     "from": {
                         "startLines": "4",
@@ -90,23 +107,6 @@
                         "startOffsets": "3712,3813,3941,4056,4158,4265,4381,4481,4679,4789,4890,5019,5134,5236,5344,5400,5457",
                         "endColumns": "100,127,114,101,106,115,99,94,109,100,128,114,101,107,55,56,73",
                         "endOffsets": "3808,3936,4051,4153,4260,4376,4476,4571,4784,4885,5014,5129,5231,5339,5395,5452,5526"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Diverter\\.gradle\\caches\\transforms-3\\afaca88a79e85696fa9ea014193223f8\\transformed\\exoplayer-core-2.18.5\\res\\values-zh-rTW\\values-zh-rTW.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,111,167,224,277,347,401,477,555",
-                        "endColumns": "55,55,56,52,69,53,75,77,58",
-                        "endOffsets": "106,162,219,272,342,396,472,550,609"
-                    },
-                    "to": {
-                        "startLines": "97,98,99,100,101,102,103,104,105",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "7272,7328,7384,7441,7494,7564,7618,7694,7772",
-                        "endColumns": "55,55,56,52,69,53,75,77,58",
-                        "endOffsets": "7323,7379,7436,7489,7559,7613,7689,7767,7826"
                     }
                 },
                 {

@@ -40,6 +40,12 @@ MERGED from [androidx.loader:loader:1.0.0] C:\Users\Diverter\.gradle\caches\tran
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Diverter\.gradle\caches\transforms-3\f823cecdc4b2e1b3a6752bfb22b401bb\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Diverter\.gradle\caches\transforms-3\7fa4dcc076e27b33c2d7f6dd153daba3\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Diverter\.gradle\caches\transforms-3\0485a3a1a167715d4a2f1e38572133bc\transformed\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.media3:media3-datasource:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\1c93ccafa0f37926ddfb9320985fae5a\transformed\media3-datasource-1.0.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-extractor:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\59f308587079137e8dbc37cebcff619c\transformed\media3-extractor-1.0.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-decoder:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\faf43971245aeee24f14b5b68651cac1\transformed\media3-decoder-1.0.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-database:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\00863b11ecce948629e8d21ab29a1af4\transformed\media3-database-1.0.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media3:media3-common:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\73e5e2969eb3c513f8bc855c362a1016\transformed\media3-common-1.0.0-alpha03\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.media3:media3-exoplayer:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\d2865fe06350c85fd1ac0c4d94e79f0d\transformed\media3-exoplayer-1.0.0-alpha03\AndroidManifest.xml:17:1-26:12
 MERGED from [net.gotev:speech:1.6.2] C:\Users\Diverter\.gradle\caches\transforms-3\0bad744ac333023353999a52a671204d\transformed\speech-1.6.2\AndroidManifest.xml:2:1-23:12
 MERGED from [com.google.android.exoplayer:exoplayer:2.18.5] C:\Users\Diverter\.gradle\caches\transforms-3\f0e93cb8fe974742001c2f87a4277046\transformed\exoplayer-2.18.5\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.5] C:\Users\Diverter\.gradle\caches\transforms-3\b36ef3e69bd270c010842b9b321aa0db\transformed\exoplayer-dash-2.18.5\AndroidManifest.xml:17:1-24:12
@@ -98,7 +104,7 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Diverter\.gradle\caches\transf
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Diverter\.gradle\caches\transforms-3\0fb17b27223ed9cbecf3718561fc21f0\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Diverter\.gradle\caches\transforms-3\0f3d773773bbe34cb259613b169bb3d2\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Diverter\.gradle\caches\transforms-3\1064b241afd27238f3ee42a94da2f9a4\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Diverter\.gradle\caches\transforms-3\60467c509cc49f77b1e71d4644b35957\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.2.0] C:\Users\Diverter\.gradle\caches\transforms-3\ec8cf2c306137622d4758915318b87d8\transformed\annotation-experimental-1.2.0\AndroidManifest.xml:17:1-24:12
 INJECTED from E:\DanzhehPlus\app\src\main\AndroidManifest.xml:2:1-41:12
 INJECTED from E:\DanzhehPlus\app\src\main\AndroidManifest.xml:2:1-41:12
 INJECTED from E:\DanzhehPlus\app\src\main\AndroidManifest.xml:2:1-41:12
@@ -142,6 +148,10 @@ uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from E:\DanzhehPlus\app\src\main\AndroidManifest.xml:9:5-79
 MERGED from [com.google.mlkit:digital-ink-recognition:18.0.0] C:\Users\Diverter\.gradle\caches\transforms-3\78ca0b0edba233ca349f8a2ff5950aab\transformed\digital-ink-recognition-18.0.0\AndroidManifest.xml:8:5-79
 MERGED from [com.google.mlkit:digital-ink-recognition:18.0.0] C:\Users\Diverter\.gradle\caches\transforms-3\78ca0b0edba233ca349f8a2ff5950aab\transformed\digital-ink-recognition-18.0.0\AndroidManifest.xml:8:5-79
+MERGED from [androidx.media3:media3-common:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\73e5e2969eb3c513f8bc855c362a1016\transformed\media3-common-1.0.0-alpha03\AndroidManifest.xml:24:5-79
+MERGED from [androidx.media3:media3-common:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\73e5e2969eb3c513f8bc855c362a1016\transformed\media3-common-1.0.0-alpha03\AndroidManifest.xml:24:5-79
+MERGED from [androidx.media3:media3-exoplayer:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\d2865fe06350c85fd1ac0c4d94e79f0d\transformed\media3-exoplayer-1.0.0-alpha03\AndroidManifest.xml:24:5-79
+MERGED from [androidx.media3:media3-exoplayer:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\d2865fe06350c85fd1ac0c4d94e79f0d\transformed\media3-exoplayer-1.0.0-alpha03\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.5] C:\Users\Diverter\.gradle\caches\transforms-3\afaca88a79e85696fa9ea014193223f8\transformed\exoplayer-core-2.18.5\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.5] C:\Users\Diverter\.gradle\caches\transforms-3\afaca88a79e85696fa9ea014193223f8\transformed\exoplayer-core-2.18.5\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Diverter\.gradle\caches\transforms-3\c535de2390a7f304c0e514bca45d4230\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
@@ -324,6 +334,18 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\D
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Diverter\.gradle\caches\transforms-3\7fa4dcc076e27b33c2d7f6dd153daba3\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Diverter\.gradle\caches\transforms-3\0485a3a1a167715d4a2f1e38572133bc\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Diverter\.gradle\caches\transforms-3\0485a3a1a167715d4a2f1e38572133bc\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.media3:media3-datasource:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\1c93ccafa0f37926ddfb9320985fae5a\transformed\media3-datasource-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-datasource:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\1c93ccafa0f37926ddfb9320985fae5a\transformed\media3-datasource-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-extractor:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\59f308587079137e8dbc37cebcff619c\transformed\media3-extractor-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-extractor:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\59f308587079137e8dbc37cebcff619c\transformed\media3-extractor-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-decoder:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\faf43971245aeee24f14b5b68651cac1\transformed\media3-decoder-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-decoder:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\faf43971245aeee24f14b5b68651cac1\transformed\media3-decoder-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-database:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\00863b11ecce948629e8d21ab29a1af4\transformed\media3-database-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-database:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\00863b11ecce948629e8d21ab29a1af4\transformed\media3-database-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-common:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\73e5e2969eb3c513f8bc855c362a1016\transformed\media3-common-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-common:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\73e5e2969eb3c513f8bc855c362a1016\transformed\media3-common-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-exoplayer:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\d2865fe06350c85fd1ac0c4d94e79f0d\transformed\media3-exoplayer-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media3:media3-exoplayer:1.0.0-alpha03] C:\Users\Diverter\.gradle\caches\transforms-3\d2865fe06350c85fd1ac0c4d94e79f0d\transformed\media3-exoplayer-1.0.0-alpha03\AndroidManifest.xml:20:5-22:41
 MERGED from [net.gotev:speech:1.6.2] C:\Users\Diverter\.gradle\caches\transforms-3\0bad744ac333023353999a52a671204d\transformed\speech-1.6.2\AndroidManifest.xml:7:5-9:41
 MERGED from [net.gotev:speech:1.6.2] C:\Users\Diverter\.gradle\caches\transforms-3\0bad744ac333023353999a52a671204d\transformed\speech-1.6.2\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.exoplayer:exoplayer:2.18.5] C:\Users\Diverter\.gradle\caches\transforms-3\f0e93cb8fe974742001c2f87a4277046\transformed\exoplayer-2.18.5\AndroidManifest.xml:20:5-22:41
@@ -440,8 +462,8 @@ MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Diverter\.gradle\c
 MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Diverter\.gradle\caches\transforms-3\0f3d773773bbe34cb259613b169bb3d2\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Diverter\.gradle\caches\transforms-3\1064b241afd27238f3ee42a94da2f9a4\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Diverter\.gradle\caches\transforms-3\1064b241afd27238f3ee42a94da2f9a4\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Diverter\.gradle\caches\transforms-3\60467c509cc49f77b1e71d4644b35957\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Diverter\.gradle\caches\transforms-3\60467c509cc49f77b1e71d4644b35957\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.2.0] C:\Users\Diverter\.gradle\caches\transforms-3\ec8cf2c306137622d4758915318b87d8\transformed\annotation-experimental-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.2.0] C:\Users\Diverter\.gradle\caches\transforms-3\ec8cf2c306137622d4758915318b87d8\transformed\annotation-experimental-1.2.0\AndroidManifest.xml:20:5-22:41
 INJECTED from E:\DanzhehPlus\app\src\main\AndroidManifest.xml
 INJECTED from E:\DanzhehPlus\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion

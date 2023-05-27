@@ -4,23 +4,6 @@
             "outputFile": "E:\\DanzhehPlus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ca\\values-ca.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Diverter\\.gradle\\caches\\transforms-3\\afaca88a79e85696fa9ea014193223f8\\transformed\\exoplayer-core-2.18.5\\res\\values-ca\\values-ca.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,133,192,261,331,407,483,581,676",
-                        "endColumns": "77,58,68,69,75,75,97,94,81",
-                        "endOffsets": "128,187,256,326,402,478,576,671,753"
-                    },
-                    "to": {
-                        "startLines": "97,98,99,100,101,102,103,104,105",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "8384,8462,8521,8590,8660,8736,8812,8910,9005",
-                        "endColumns": "77,58,68,69,75,75,97,94,81",
-                        "endOffsets": "8457,8516,8585,8655,8731,8807,8905,9000,9082"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Diverter\\.gradle\\caches\\transforms-3\\f4545ceaee238d958a5997fbe5ae11ae\\transformed\\exoplayer-ui-2.18.5\\res\\values-ca\\values-ca.xml",
                     "from": {
                         "startLines": "2,11,15,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60",
@@ -71,6 +54,23 @@
                         "startOffsets": "14160,14271",
                         "endColumns": "110,121",
                         "endOffsets": "14266,14388"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Diverter\\.gradle\\caches\\transforms-3\\d2865fe06350c85fd1ac0c4d94e79f0d\\transformed\\media3-exoplayer-1.0.0-alpha03\\res\\values-ca\\values-ca.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,133,192,261,331,407,483,581,676",
+                        "endColumns": "77,58,68,69,75,75,97,94,81",
+                        "endOffsets": "128,187,256,326,402,478,576,671,753"
+                    },
+                    "to": {
+                        "startLines": "97,98,99,100,101,102,103,104,105",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "8384,8462,8521,8590,8660,8736,8812,8910,9005",
+                        "endColumns": "77,58,68,69,75,75,97,94,81",
+                        "endOffsets": "8457,8516,8585,8655,8731,8807,8905,9000,9082"
                     }
                 },
                 {

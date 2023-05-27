@@ -57,6 +57,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\Diverter\\.gradle\\caches\\transforms-3\\d2865fe06350c85fd1ac0c4d94e79f0d\\transformed\\media3-exoplayer-1.0.0-alpha03\\res\\values-bg\\values-bg.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,126,189,253,327,405,478,575,666",
+                        "endColumns": "70,62,63,73,77,72,96,90,75",
+                        "endOffsets": "121,184,248,322,400,473,570,661,737"
+                    },
+                    "to": {
+                        "startLines": "97,98,99,100,101,102,103,104,105",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "8553,8624,8687,8751,8825,8903,8976,9073,9164",
+                        "endColumns": "70,62,63,73,77,72,96,90,75",
+                        "endOffsets": "8619,8682,8746,8820,8898,8971,9068,9159,9235"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Diverter\\.gradle\\caches\\transforms-3\\c603081ad993611e925a52aee31d9244\\transformed\\play-services-base-18.0.1\\res\\values-bg\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -71,23 +88,6 @@
                         "startOffsets": "4070,4179,4344,4479,4590,4757,4892,5011,5258,5427,5539,5714,5852,6009,6175,6245,6304",
                         "endColumns": "108,164,134,110,166,134,118,108,168,111,174,137,156,165,69,58,72",
                         "endOffsets": "4174,4339,4474,4585,4752,4887,5006,5115,5422,5534,5709,5847,6004,6170,6240,6299,6372"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Diverter\\.gradle\\caches\\transforms-3\\afaca88a79e85696fa9ea014193223f8\\transformed\\exoplayer-core-2.18.5\\res\\values-bg\\values-bg.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,126,189,253,327,405,478,575,666",
-                        "endColumns": "70,62,63,73,77,72,96,90,75",
-                        "endOffsets": "121,184,248,322,400,473,570,661,737"
-                    },
-                    "to": {
-                        "startLines": "97,98,99,100,101,102,103,104,105",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "8553,8624,8687,8751,8825,8903,8976,9073,9164",
-                        "endColumns": "70,62,63,73,77,72,96,90,75",
-                        "endOffsets": "8619,8682,8746,8820,8898,8971,9068,9159,9235"
                     }
                 },
                 {
